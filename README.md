@@ -1,11 +1,5 @@
-<html>
-<head>
-  <style>
-     td {text-align:center}
-  </style>
-</head>
-<body>
-<table>
+
+<table border="1" align="center">
   <tr>
     <td>Rating</td>
     <td>班级</td>
@@ -240,5 +234,3 @@
     <td></td>
   </tr>
 </table>
-</body>
-</html>
