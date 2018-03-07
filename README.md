@@ -1,5 +1,5 @@
 
-<table border="1" align="center">
+<table align="center">
   <tr>
     <td>Rating</td>
     <td>班级</td>
@@ -109,7 +109,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td>班级</td>
     <td>姓名</td>
