@@ -1,3 +1,10 @@
+<html>
+<head>
+  <style>
+     td {text-align:center}
+  </style>
+</head>
+<body>
 <table>
   <tr>
     <td>Rating</td>
@@ -233,3 +240,5 @@
     <td></td>
   </tr>
 </table>
+</body>
+</html>
