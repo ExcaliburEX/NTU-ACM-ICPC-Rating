@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>网工161</td>
+    <td>软工161</td>
     <td>李昊洋</td>
     <td>thirtiseven</td>
     <td>1617</td>
@@ -120,7 +120,7 @@
     <td>Codeforces</td>
   </tr>
   <tr>
-    <td>网工161</td>
+    <td>软工161</td>
     <td>李昊洋</td>
     <td>thirtiseven</td>
     <td>10</td>
