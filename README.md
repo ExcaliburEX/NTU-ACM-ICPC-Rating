@@ -1,7 +1,7 @@
 # 2018.3.7 更新
 # 2018.3.12 更新Codeforces recently highest rating.
 
-<font color=red>内容</font>
+\uparrow
 
 <table>
    <tr>
