@@ -5,10 +5,10 @@
 - II.  王淦   叶冬冬 郁越 (+7pt)
 - III. 张继洁 王富饶 潘博 (+4pt)
 
- 陈虎            ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  1
- 郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
- 
+ 陈虎          ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  1
  杜剑雄  ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)   1
+ 
+ 郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
  侯承忻  ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
  
 
