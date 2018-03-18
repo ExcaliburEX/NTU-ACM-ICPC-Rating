@@ -6,7 +6,7 @@
 - III. 张继洁 王富饶 潘博 (+4pt)
 ### 陈虎      1
 $\downarrow$
-![](http://latex.codecogs.com/gif.latex?\\ \uparrow)
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 ### 郁越   $\uparrow$     1
 ### 杜剑雄 $\downarrow$   1
