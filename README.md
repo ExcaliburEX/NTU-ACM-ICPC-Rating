@@ -11,7 +11,6 @@
  郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
  侯承忻   ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
  
-
 <table>
    <tr>
       <td>Rating</td>
@@ -27,7 +26,7 @@
       <td>李昊洋</td>
       <td>thirtiseven</td>
       <td>1583</td>
-      <td>2201</td>
+      <td>2177</td>
    </tr>
    <tr>
       <td>2</td>
@@ -35,7 +34,7 @@
       <td>王淦</td>
       <td>wanggann</td>
       <td>1509</td>
-      <td>2061</td>
+      <td>2068</td>
    </tr>
    <tr>
       <td>3</td>
@@ -55,19 +54,19 @@
    </tr>
    <tr>
       <td>5</td>
+      <td>网工172</td>
+      <td>郁越</td>
+      <td>Cathy98</td>
+      <td>1388</td>
+      <td>1399</td>
+   </tr>
+   <tr>
+      <td>6</td>
       <td>软嵌171</td>
       <td>陈虎</td>
       <td>xyfillusion</td>
       <td>1392</td>
       <td>1396</td>
-   </tr>
-   <tr>
-      <td>6</td>
-      <td>网工172</td>
-      <td>郁越</td>
-      <td>Cathy98</td>
-      <td>1388</td>
-      <td>1392</td>
    </tr>
    <tr>
       <td>7</td>
@@ -87,6 +86,14 @@
    </tr>
    <tr>
       <td>9</td>
+      <td>网工161</td>
+      <td>侯承忻</td>
+      <td>sijidou</td>
+      <td>1359</td>
+      <td>1385</td>
+   </tr>
+   <tr>
+      <td>10</td>
       <td>计嵌172</td>
       <td>杜剑雄</td>
       <td>Endlesscs</td>
@@ -94,20 +101,12 @@
       <td>1381</td>
    </tr>
    <tr>
-      <td>10</td>
-      <td>网工161</td>
-      <td>侯承忻</td>
-      <td>sijidou</td>
-      <td>1359</td>
-      <td>1375</td>
-   </tr>
-   <tr>
       <td>11</td>
       <td>网工161</td>
       <td>邱晨阳</td>
       <td>taitesi</td>
       <td>1320</td>
-      <td>1330</td>
+      <td>1340</td>
    </tr>
    <tr>
       <td>12</td>
@@ -115,7 +114,7 @@
       <td>叶冬冬</td>
       <td>excaliburEx</td>
       <td>1282</td>
-      <td>1300</td>
+      <td>1307</td>
    </tr>
    <tr>
       <td></td>
