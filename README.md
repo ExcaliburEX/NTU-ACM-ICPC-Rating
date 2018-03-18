@@ -1,5 +1,6 @@
 # 2018.3.7 更新
 # 2018.3.12 更新Codeforces recently highest rating.
+<font color=#00ffff size=72>color=#00ffff</font>
 <table>
    <tr>
       <td>Rating</td>
