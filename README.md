@@ -6,7 +6,7 @@
 - III. 张继洁 王富饶 潘博 (+4pt)
 ### 陈虎      1
 $\downarrow$
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
+![](http://latex.codecogs.com/gif.latex?\{\color{Green} \uparrow})
 
 
 ### 郁越   $\uparrow$     1
