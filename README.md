@@ -9,7 +9,7 @@
  杜剑雄   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)   1
  
  郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
- 侯承忻  ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
+ 侯承忻   ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
  
 
 <table>
