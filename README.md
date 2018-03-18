@@ -1,9 +1,9 @@
 # 2018.3.7 更新
 # 2018.3.12 更新Codeforces recently highest rating.
 # 2018.3.18 第一次队赛
-## I.   李昊洋 侯承忻 邱晨阳 (+10pt)
-## II.  王淦   叶冬冬 郁越 (+7pt)
-## III. 张继洁 王富饶 潘博 (+4pt)
+- I.   李昊洋 侯承忻 邱晨阳 (+10pt)
+- II.  王淦   叶冬冬 郁越 (+7pt)
+- III. 张继洁 王富饶 潘博 (+4pt)
 ### 陈虎   $\downarrow$   1
 ### 郁越   $\uparrow$     1
 ### 杜剑雄 $\downarrow$   1
