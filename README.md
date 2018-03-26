@@ -10,14 +10,17 @@
  
  郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
  侯承忻   ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
- 
+# 2018.3.25 第二次队赛 2014-2015 ACM-ICPC Pacific Northwest Regional Contest
+- I.   李昊洋 邱晨阳 (+15pt)
+- II.  张继洁 王富饶 (+10pt)
+- III. 赵静柯 张辰易 雷涛 (+4pt)
 <table>
    <tr>
-      <td>Rating</td>
+      <td></td>
       <td>班级</td>
       <td>姓名</td>
       <td>CF ID</td>
-      <td>CF HRR</td>
+      <td>CF highest rating recently</td>
       <td>pt</td>
    </tr>
    <tr>
@@ -25,8 +28,8 @@
       <td>网工161</td>
       <td>李昊洋</td>
       <td>thirtiseven</td>
-      <td>1583</td>
-      <td>2177</td>
+      <td>1549</td>
+      <td>2158</td>
    </tr>
    <tr>
       <td>2</td>
@@ -38,22 +41,30 @@
    </tr>
    <tr>
       <td>3</td>
-      <td>物联网171</td>
-      <td>赵静珂 </td>
-      <td>_Simon_</td>
-      <td>1332</td>
-      <td>1412</td>
-   </tr>
-   <tr>
-      <td>4</td>
       <td>计嵌172</td>
       <td>葛骅</td>
       <td>K.GH</td>
       <td>1403</td>
-      <td>1405</td>
+      <td>1431</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>计嵌172</td>
+      <td>朱恺</td>
+      <td>Dawnzk</td>
+      <td>1375</td>
+      <td>1421</td>
    </tr>
    <tr>
       <td>5</td>
+      <td>物联网171</td>
+      <td>赵静珂 </td>
+      <td>_Simon_</td>
+      <td>1332</td>
+      <td>1416</td>
+   </tr>
+   <tr>
+      <td>6</td>
       <td>网工172</td>
       <td>郁越</td>
       <td>Cathy98</td>
@@ -61,7 +72,7 @@
       <td>1399</td>
    </tr>
    <tr>
-      <td>6</td>
+      <td>7</td>
       <td>软嵌171</td>
       <td>陈虎</td>
       <td>xyfillusion</td>
@@ -69,7 +80,15 @@
       <td>1396</td>
    </tr>
    <tr>
-      <td>7</td>
+      <td>8</td>
+      <td>网工171z</td>
+      <td>张宸易</td>
+      <td>index2014</td>
+      <td>1374</td>
+      <td>1392</td>
+   </tr>
+   <tr>
+      <td>9</td>
       <td>软工171</td>
       <td>赵海洲</td>
       <td>chenzhao</td>
@@ -77,15 +96,7 @@
       <td>1391</td>
    </tr>
    <tr>
-      <td>8</td>
-      <td>网工171z</td>
-      <td>张宸易</td>
-      <td>index2014</td>
-      <td>1374</td>
-      <td>1388</td>
-   </tr>
-   <tr>
-      <td>9</td>
+      <td>10</td>
       <td>网工161</td>
       <td>侯承忻</td>
       <td>sijidou</td>
@@ -93,7 +104,7 @@
       <td>1385</td>
    </tr>
    <tr>
-      <td>10</td>
+      <td>11</td>
       <td>计嵌172</td>
       <td>杜剑雄</td>
       <td>Endlesscs</td>
@@ -101,20 +112,20 @@
       <td>1381</td>
    </tr>
    <tr>
-      <td>11</td>
+      <td>12</td>
       <td>网工161</td>
       <td>邱晨阳</td>
       <td>taitesi</td>
       <td>1320</td>
-      <td>1340</td>
+      <td>1355</td>
    </tr>
    <tr>
-      <td>12</td>
-      <td>交运171z</td>
+      <td>13</td>
+      <td>交通运输171z</td>
       <td>叶冬冬</td>
       <td>excaliburEx</td>
       <td>1282</td>
-      <td>1307</td>
+      <td>1335</td>
    </tr>
    <tr>
       <td></td>
