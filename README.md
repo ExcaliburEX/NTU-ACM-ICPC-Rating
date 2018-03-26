@@ -17,7 +17,7 @@
 
 葛骅        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
 
-赵静柯     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
+赵静柯     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  1
 
 陈虎     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
 
