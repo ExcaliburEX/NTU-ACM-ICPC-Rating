@@ -19,6 +19,8 @@
 
 赵静柯     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
 
+陈虎     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
+
 赵海洲     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
 
 杜剑雄    ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
