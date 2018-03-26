@@ -16,10 +16,15 @@
 - III. 赵静柯 张辰易 雷涛 (+4pt)
 
 葛骅        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
+
 赵静柯     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
+
 赵海洲     ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
+
 杜剑雄    ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
+
 New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
+
 <table>
    <tr>
       <td></td>
