@@ -20,7 +20,7 @@
       <td>班级</td>
       <td>姓名</td>
       <td>CF ID</td>
-      <td>CF highest rating recently</td>
+      <td>CF HRR</td>
       <td>pt</td>
    </tr>
    <tr>
@@ -131,7 +131,6 @@
       <td></td>
    </tr>
 </table>
-
 <table align="center">
   <tr>
     <td>班级</td>
