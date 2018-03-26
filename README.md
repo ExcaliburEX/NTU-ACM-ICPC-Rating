@@ -10,7 +10,7 @@
  
  郁越        ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)  1
  侯承忻   ![](http://latex.codecogs.com/gif.latex?\\color{Green}\uparrow)   1
-# 2018.3.25 第二次队赛 2014-2015 ACM-ICPC Pacific Northwest Regional Contest
+# 2018.3.24 第二次队赛 2014-2015 ACM-ICPC Pacific Northwest Regional Contest
 - I.   李昊洋 邱晨阳 (+15pt)
 - II.  张继洁 王富饶 (+10pt)
 - III. 赵静柯 张辰易 雷涛 (+4pt)
