@@ -26,7 +26,6 @@
 杜剑雄    ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
 
 New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
-
 <table>
    <tr>
       <td></td>
@@ -62,19 +61,19 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    </tr>
    <tr>
       <td>4</td>
-      <td>计嵌172</td>
-      <td>朱恺</td>
-      <td>Dawnzk</td>
-      <td>1375</td>
-      <td>1421</td>
-   </tr>
-   <tr>
-      <td>5</td>
       <td>物联网171</td>
       <td>赵静珂 </td>
       <td>_Simon_</td>
       <td>1332</td>
       <td>1416</td>
+   </tr>
+   <tr>
+      <td>5</td>
+      <td>计嵌172</td>
+      <td>朱恺</td>
+      <td>Dawnzk</td>
+      <td>1375</td>
+      <td>1400</td>
    </tr>
    <tr>
       <td>6</td>
