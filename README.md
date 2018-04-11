@@ -31,6 +31,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
 # 2018.4.11 第三次队赛以及第九届蓝桥杯
 ## 马思赜 +30 沈宇翔 +20 谢隽丰 +10
 ## 李昊洋+15 王淦+10 赵静柯+5
+- *为退役选手
 
 <table>
    <tr>
@@ -192,6 +193,173 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>agedTime</td>
       <td></td>
       <td>0</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
+
+
+<table>
+   <tr>
+      <td>班级</td>
+      <td>姓名</td>
+      <td>Uva</td>
+      <td>HDU</td>
+      <td>POJ</td>
+      <td>Codeforces</td>
+   </tr>
+   <tr>
+      <td>软工152</td>
+      <td>沈宇翔*</td>
+      <td>109</td>
+      <td></td>
+      <td>22</td>
+      <td>340</td>
+   </tr>
+   <tr>
+      <td>计151</td>
+      <td>马思赜*</td>
+      <td></td>
+      <td></td>
+      <td>140</td>
+      <td>220</td>
+   </tr>
+   <tr>
+      <td>网工161</td>
+      <td>李昊洋</td>
+      <td>10</td>
+      <td>42</td>
+      <td>14</td>
+      <td>243</td>
+   </tr>
+   <tr>
+      <td>计嵌162</td>
+      <td>王淦</td>
+      <td></td>
+      <td>12</td>
+      <td></td>
+      <td>318</td>
+   </tr>
+   <tr>
+      <td>计152</td>
+      <td>谢隽丰*</td>
+      <td></td>
+      <td>24</td>
+      <td>3</td>
+      <td>171</td>
+   </tr>
+   <tr>
+      <td>物联网171</td>
+      <td>赵静珂 </td>
+      <td>1</td>
+      <td>33</td>
+      <td>10</td>
+      <td>26</td>
+   </tr>
+   <tr>
+      <td>计嵌172</td>
+      <td>葛骅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>计科17</td>
+      <td>丁雨聪</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>网工161</td>
+      <td>侯承忻</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>11</td>
+   </tr>
+   <tr>
+      <td>软工171</td>
+      <td>陈赵</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>软工152</td>
+      <td>刘猛*</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>9</td>
+   </tr>
+   <tr>
+      <td>网工172</td>
+      <td>陈迪荣</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>计嵌172</td>
+      <td>陈志伟</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>计嵌171</td>
+      <td>李喜凯</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>计科172</td>
+      <td>沈天任</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>网工161</td>
+      <td>邱晨阳</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>7</td>
+   </tr>
+   <tr>
+      <td>软工171</td>
+      <td>周朝晖</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>软工171</td>
+      <td>杨任汀</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>计嵌17</td>
+      <td>张辰康</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
    </tr>
    <tr>
       <td></td>
