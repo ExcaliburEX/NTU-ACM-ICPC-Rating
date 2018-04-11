@@ -26,263 +26,172 @@
 杜剑雄    ![](http://latex.codecogs.com/gif.latex?\\color{Red}\downarrow)  2
 
 New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
+
+
+# 2018.4.11 第三次队赛以及第九届蓝桥杯
+## 马思赜 +30 沈宇翔 +20 谢隽丰 +10
+## 李昊洋+15 王淦+10 赵静柯+5
+
 <table>
    <tr>
-      <td></td>
+      <td>Rating</td>
       <td>班级</td>
       <td>姓名</td>
       <td>CF ID</td>
-      <td>CF HRR</td>
+      <td>CF highest rating recently</td>
       <td>pt</td>
    </tr>
    <tr>
       <td>1</td>
+      <td>软工152</td>
+      <td>沈宇翔*</td>
+      <td>Cookic</td>
+      <td>1573</td>
+      <td>2535</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>计151</td>
+      <td>马思赜*</td>
+      <td>Marszed</td>
+      <td>1518</td>
+      <td>2268</td>
+   </tr>
+   <tr>
+      <td>3</td>
       <td>网工161</td>
       <td>李昊洋</td>
       <td>thirtiseven</td>
       <td>1549</td>
-      <td>2158</td>
+      <td>2202</td>
    </tr>
    <tr>
-      <td>2</td>
+      <td>4</td>
       <td>计嵌162</td>
       <td>王淦</td>
       <td>wanggann</td>
       <td>1509</td>
-      <td>2068</td>
+      <td>2186</td>
    </tr>
    <tr>
-      <td>3</td>
-      <td>计嵌172</td>
-      <td>葛骅</td>
-      <td>K.GH</td>
-      <td>1403</td>
-      <td>1431</td>
+      <td>5</td>
+      <td>计152</td>
+      <td>谢隽丰*</td>
+      <td>Xienaoban</td>
+      <td>1587</td>
+      <td>1993</td>
    </tr>
    <tr>
-      <td>4</td>
+      <td>6</td>
       <td>物联网171</td>
       <td>赵静珂 </td>
       <td>_Simon_</td>
       <td>1332</td>
-      <td>1416</td>
-   </tr>
-   <tr>
-      <td>5</td>
-      <td>计嵌172</td>
-      <td>朱恺</td>
-      <td>Dawnzk</td>
-      <td>1375</td>
-      <td>1400</td>
-   </tr>
-   <tr>
-      <td>6</td>
-      <td>网工172</td>
-      <td>郁越</td>
-      <td>Cathy98</td>
-      <td>1388</td>
-      <td>1399</td>
+      <td>1481</td>
    </tr>
    <tr>
       <td>7</td>
-      <td>软嵌171</td>
-      <td>陈虎</td>
-      <td>xyfillusion</td>
-      <td>1392</td>
-      <td>1396</td>
+      <td>计嵌172</td>
+      <td>葛骅</td>
+      <td>K.GH</td>
+      <td>1403</td>
+      <td>1405</td>
    </tr>
    <tr>
       <td>8</td>
-      <td>网工171z</td>
-      <td>张宸易</td>
-      <td>index2014</td>
-      <td>1374</td>
-      <td>1392</td>
+      <td>计科17</td>
+      <td>丁雨聪</td>
+      <td>Chrisding</td>
+      <td>1387</td>
+      <td>1391</td>
    </tr>
    <tr>
       <td>9</td>
+      <td>网工161</td>
+      <td>侯承忻</td>
+      <td>sijidou</td>
+      <td>1359</td>
+      <td>1391</td>
+   </tr>
+   <tr>
+      <td>10</td>
       <td>软工171</td>
-      <td>赵海洲</td>
+      <td>陈赵</td>
       <td>chenzhao</td>
       <td>1387</td>
       <td>1391</td>
    </tr>
    <tr>
-      <td>10</td>
-      <td>网工161</td>
-      <td>侯承忻</td>
-      <td>sijidou</td>
-      <td>1359</td>
-      <td>1385</td>
-   </tr>
-   <tr>
       <td>11</td>
-      <td>计嵌172</td>
-      <td>杜剑雄</td>
-      <td>Endlesscs</td>
-      <td>1373</td>
-      <td>1381</td>
+      <td>软工152</td>
+      <td>刘猛*</td>
+      <td>Lark00</td>
+      <td>1486</td>
+      <td>1391</td>
    </tr>
    <tr>
       <td>12</td>
+      <td>网工172</td>
+      <td>陈迪荣</td>
+      <td>lttzz</td>
+      <td>1390</td>
+      <td>1390</td>
+   </tr>
+   <tr>
+      <td>13</td>
+      <td>计嵌172</td>
+      <td>陈志伟</td>
+      <td>Catalyzer</td>
+      <td>1380</td>
+      <td>1382</td>
+   </tr>
+   <tr>
+      <td>14</td>
+      <td>计嵌171</td>
+      <td>李喜凯</td>
+      <td>perfectisshit</td>
+      <td>1375</td>
+      <td>1379</td>
+   </tr>
+   <tr>
+      <td>15</td>
+      <td>计科172</td>
+      <td>沈天任</td>
+      <td>STRworld </td>
+      <td>1371</td>
+      <td>1373</td>
+   </tr>
+   <tr>
+      <td>16</td>
       <td>网工161</td>
       <td>邱晨阳</td>
       <td>taitesi</td>
       <td>1320</td>
-      <td>1355</td>
+      <td>1359</td>
    </tr>
    <tr>
-      <td>13</td>
-      <td>交通运输171z</td>
-      <td>叶冬冬</td>
-      <td>excaliburEx</td>
-      <td>1282</td>
-      <td>1335</td>
-   </tr>
-   <tr>
-      <td></td>
-   </tr>
-</table>
-<table>
-   <tr>
-      <td>班级</td>
-      <td>姓名</td>
-      <td>CF ID</td>
-      <td>Uva</td>
-      <td>HDU</td>
-      <td>POJ</td>
-      <td>Codeforces</td>
-      <td>蓝桥</td>
-   </tr>
-   <tr>
-      <td>网工161</td>
-      <td>李昊洋</td>
-      <td>thirtiseven</td>
-      <td>10</td>
-      <td>42</td>
-      <td>14</td>
-      <td>226</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>计嵌162</td>
-      <td>王淦</td>
-      <td>wanggann</td>
-      <td></td>
-      <td>12</td>
-      <td></td>
-      <td>264</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>物联网171</td>
-      <td>赵静珂 </td>
-      <td>_Simon_</td>
-      <td></td>
-      <td>22</td>
-      <td>3</td>
-      <td>15</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>网工161</td>
-      <td>侯承忻</td>
-      <td>sijidou</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>8</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>网工161</td>
-      <td>邱晨阳</td>
-      <td>taitesi</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>交通运输171z</td>
-      <td>叶冬冬</td>
-      <td>excaliburEx</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>7</td>
-      <td>28</td>
-   </tr>
-   <tr>
-      <td>计嵌172</td>
-      <td>葛骅</td>
-      <td>K.GH</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td>26</td>
-   </tr>
-   <tr>
-      <td>软嵌171</td>
-      <td>陈虎</td>
-      <td>xyfillusion</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>网工172</td>
-      <td>郁越</td>
-      <td>Cathy98</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-   </tr>
-   <tr>
+      <td>17</td>
       <td>软工171</td>
-      <td>赵海洲</td>
-      <td>chenzhao</td>
+      <td>周朝晖</td>
+      <td>BuxiZhou</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
+      <td>0</td>
    </tr>
    <tr>
-      <td>网工171z</td>
-      <td>张宸易</td>
-      <td>index2014</td>
+      <td>18</td>
+      <td>软工171</td>
+      <td>杨任汀</td>
+      <td>zhufeifei</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>7</td>
-      <td></td>
+      <td>0</td>
    </tr>
    <tr>
-      <td>计嵌172</td>
-      <td>杜剑雄</td>
-      <td>Endlesscs</td>
+      <td>19</td>
+      <td>计嵌17</td>
+      <td>张辰康</td>
+      <td>agedTime</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>4</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>计嵌172</td>
-      <td>朱恺</td>
-      <td>Dawnzk</td>
-      <td>2</td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td>21</td>
+      <td>0</td>
    </tr>
    <tr>
       <td></td>
