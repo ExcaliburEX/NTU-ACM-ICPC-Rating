@@ -35,160 +35,160 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
 <table>
    <tr>
       <td>Rating</td>
-      <td>ç­çº§</td>
-      <td>å§å</td>
+      <td>班级</td>
+      <td>姓名</td>
       <td>CF ID</td>
       <td>CF highest rating recently</td>
       <td>pt</td>
    </tr>
    <tr>
       <td>1</td>
-      <td>è½¯å·¥152</td>
-      <td>æ²å®ç¿*</td>
+      <td>软工152</td>
+      <td>沈宇翔*</td>
       <td>Cookic</td>
       <td>1573</td>
       <td>2535</td>
    </tr>
    <tr>
       <td>2</td>
-      <td>è®¡151</td>
-      <td>é©¬æèµ*</td>
+      <td>计151</td>
+      <td>马思赜*</td>
       <td>Marszed</td>
       <td>1518</td>
       <td>2268</td>
    </tr>
    <tr>
       <td>3</td>
-      <td>ç½å·¥161</td>
-      <td>æææ´</td>
+      <td>网工161</td>
+      <td>李昊洋</td>
       <td>thirtiseven</td>
       <td>1549</td>
       <td>2202</td>
    </tr>
    <tr>
       <td>4</td>
-      <td>è®¡åµ162</td>
-      <td>çæ·¦</td>
+      <td>计嵌162</td>
+      <td>王淦</td>
       <td>wanggann</td>
       <td>1509</td>
       <td>2186</td>
    </tr>
    <tr>
       <td>5</td>
-      <td>è®¡152</td>
-      <td>è°¢é½ä¸°*</td>
+      <td>计152</td>
+      <td>谢隽丰*</td>
       <td>Xienaoban</td>
       <td>1587</td>
       <td>1993</td>
    </tr>
    <tr>
       <td>6</td>
-      <td>ç©èç½171</td>
-      <td>èµµéç</td>
+      <td>物联网171</td>
+      <td>赵静珂 </td>
       <td>_Simon_</td>
       <td>1332</td>
       <td>1481</td>
    </tr>
    <tr>
       <td>7</td>
-      <td>è®¡åµ172</td>
-      <td>èéª</td>
+      <td>计嵌172</td>
+      <td>葛骅</td>
       <td>K.GH</td>
       <td>1403</td>
       <td>1405</td>
    </tr>
    <tr>
       <td>8</td>
-      <td>è®¡ç§17</td>
-      <td>ä¸é¨èª</td>
+      <td>计科17</td>
+      <td>丁雨聪</td>
       <td>Chrisding</td>
       <td>1387</td>
       <td>1391</td>
    </tr>
    <tr>
       <td>9</td>
-      <td>ç½å·¥161</td>
-      <td>ä¾¯æ¿å¿»</td>
+      <td>网工161</td>
+      <td>侯承忻</td>
       <td>sijidou</td>
       <td>1359</td>
       <td>1391</td>
    </tr>
    <tr>
       <td>10</td>
-      <td>è½¯å·¥171</td>
-      <td>éèµµ</td>
+      <td>软工171</td>
+      <td>陈赵</td>
       <td>chenzhao</td>
       <td>1387</td>
       <td>1391</td>
    </tr>
    <tr>
       <td>11</td>
-      <td>è½¯å·¥152</td>
-      <td>åç*</td>
+      <td>软工152</td>
+      <td>刘猛*</td>
       <td>Lark00</td>
       <td>1486</td>
       <td>1391</td>
    </tr>
    <tr>
       <td>12</td>
-      <td>ç½å·¥172</td>
-      <td>éè¿ªè£</td>
+      <td>网工172</td>
+      <td>陈迪荣</td>
       <td>lttzz</td>
       <td>1390</td>
       <td>1390</td>
    </tr>
    <tr>
       <td>13</td>
-      <td>è®¡åµ172</td>
-      <td>éå¿ä¼</td>
+      <td>计嵌172</td>
+      <td>陈志伟</td>
       <td>Catalyzer</td>
       <td>1380</td>
       <td>1382</td>
    </tr>
    <tr>
       <td>14</td>
-      <td>è®¡åµ171</td>
-      <td>æåå¯</td>
+      <td>计嵌171</td>
+      <td>李喜凯</td>
       <td>perfectisshit</td>
       <td>1375</td>
       <td>1379</td>
    </tr>
    <tr>
       <td>15</td>
-      <td>è®¡ç§172</td>
-      <td>æ²å¤©ä»»</td>
-      <td>STRworld</td>
+      <td>计科172</td>
+      <td>沈天任</td>
+      <td>STRworld </td>
       <td>1371</td>
       <td>1373</td>
    </tr>
    <tr>
       <td>16</td>
-      <td>ç½å·¥161</td>
-      <td>é±æ¨é³</td>
+      <td>网工161</td>
+      <td>邱晨阳</td>
       <td>taitesi</td>
       <td>1320</td>
       <td>1359</td>
    </tr>
    <tr>
       <td>17</td>
-      <td>è½¯å·¥171</td>
-      <td>å¨ææ</td>
+      <td>软工171</td>
+      <td>周朝晖</td>
       <td>BuxiZhou</td>
       <td>1200</td>
       <td>1200</td>
    </tr>
    <tr>
       <td>18</td>
-      <td>è½¯å·¥171</td>
-      <td>æ¨ä»»æ±</td>
+      <td>软工171</td>
+      <td>杨任汀</td>
       <td>zhufeifei</td>
       <td>1200</td>
       <td>1200</td>
    </tr>
    <tr>
       <td>19</td>
-      <td>è®¡åµ17</td>
-      <td>å¼ è¾°åº·</td>
+      <td>计嵌17</td>
+      <td>张辰康</td>
       <td>agedTime</td>
       <td>1200</td>
       <td>1200</td>
@@ -197,7 +197,6 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td></td>
    </tr>
 </table>
-
 <table>
    <tr>
       <td>班级</td>
