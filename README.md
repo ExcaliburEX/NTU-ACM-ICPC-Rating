@@ -31,7 +31,14 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
 # 2018.4.11 第三次队赛以及第九届蓝桥杯
 ## 马思赜 +30 沈宇翔 +20 谢隽丰 +10
 ## 李昊洋+15 王淦+10 赵静柯+5
+
+# 2018.4.14 第四次队赛
+## I.王淦(+30)
+## II.李昊洋(+20)
+## III.沈逸淳(+10)
+
 - *为退役选手
+
 <table>
    <tr>
       <td>Rating</td>
@@ -63,7 +70,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>李昊洋</td>
       <td>thirtiseven</td>
       <td>1549</td>
-      <td>2202</td>
+      <td>2222</td>
    </tr>
    <tr>
       <td>4</td>
@@ -71,7 +78,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>王淦</td>
       <td>wanggann</td>
       <td>1509</td>
-      <td>2186</td>
+      <td>2216</td>
    </tr>
    <tr>
       <td>5</td>
@@ -83,6 +90,14 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    </tr>
    <tr>
       <td>6</td>
+      <td>软工152</td>
+      <td>刘猛*</td>
+      <td>Lark00</td>
+      <td>1486</td>
+      <td>1504</td>
+   </tr>
+   <tr>
+      <td>7</td>
       <td>物联网171</td>
       <td>赵静珂 </td>
       <td>_Simon_</td>
@@ -90,7 +105,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1481</td>
    </tr>
    <tr>
-      <td>7</td>
+      <td>8</td>
       <td>计嵌172</td>
       <td>葛骅</td>
       <td>K.GH</td>
@@ -98,7 +113,31 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1405</td>
    </tr>
    <tr>
-      <td>8</td>
+      <td>9</td>
+      <td>网工171</td>
+      <td>王康</td>
+      <td>saaak</td>
+      <td>1398</td>
+      <td>1404</td>
+   </tr>
+   <tr>
+      <td>10</td>
+      <td>软嵌162</td>
+      <td>王立凯</td>
+      <td>wlyan</td>
+      <td>1393</td>
+      <td>1397</td>
+   </tr>
+   <tr>
+      <td>11</td>
+      <td>软嵌171</td>
+      <td>陈虎</td>
+      <td>xyfillusion</td>
+      <td>1392</td>
+      <td>1396</td>
+   </tr>
+   <tr>
+      <td>12</td>
       <td>计科17</td>
       <td>丁雨聪</td>
       <td>Chrisding</td>
@@ -106,7 +145,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1391</td>
    </tr>
    <tr>
-      <td>9</td>
+      <td>13</td>
       <td>网工161</td>
       <td>侯承忻</td>
       <td>sijidou</td>
@@ -114,7 +153,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1391</td>
    </tr>
    <tr>
-      <td>10</td>
+      <td>14</td>
       <td>软工171</td>
       <td>陈赵</td>
       <td>chenzhao</td>
@@ -122,15 +161,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1391</td>
    </tr>
    <tr>
-      <td>11</td>
-      <td>软工152</td>
-      <td>刘猛*</td>
-      <td>Lark00</td>
-      <td>1486</td>
-      <td>1391</td>
-   </tr>
-   <tr>
-      <td>12</td>
+      <td>15</td>
       <td>网工172</td>
       <td>陈迪荣</td>
       <td>lttzz</td>
@@ -138,7 +169,15 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1390</td>
    </tr>
    <tr>
-      <td>13</td>
+      <td>16</td>
+      <td>计嵌171</td>
+      <td>吴雪斐</td>
+      <td>Qsama</td>
+      <td>1375</td>
+      <td>1385</td>
+   </tr>
+   <tr>
+      <td>17</td>
       <td>计嵌172</td>
       <td>陈志伟</td>
       <td>Catalyzer</td>
@@ -146,7 +185,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1382</td>
    </tr>
    <tr>
-      <td>14</td>
+      <td>18</td>
       <td>计嵌171</td>
       <td>李喜凯</td>
       <td>perfectisshit</td>
@@ -154,7 +193,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1379</td>
    </tr>
    <tr>
-      <td>15</td>
+      <td>19</td>
       <td>计科172</td>
       <td>沈天任</td>
       <td>STRworld </td>
@@ -162,7 +201,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1373</td>
    </tr>
    <tr>
-      <td>16</td>
+      <td>20</td>
       <td>网工161</td>
       <td>邱晨阳</td>
       <td>taitesi</td>
@@ -170,7 +209,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1359</td>
    </tr>
    <tr>
-      <td>17</td>
+      <td>21</td>
       <td>软工171</td>
       <td>周朝晖</td>
       <td>BuxiZhou</td>
@@ -178,7 +217,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1200</td>
    </tr>
    <tr>
-      <td>18</td>
+      <td>22</td>
       <td>软工171</td>
       <td>杨任汀</td>
       <td>zhufeifei</td>
@@ -186,7 +225,7 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1200</td>
    </tr>
    <tr>
-      <td>19</td>
+      <td>23</td>
       <td>计嵌17</td>
       <td>张辰康</td>
       <td>agedTime</td>
@@ -194,13 +233,32 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
       <td>1200</td>
    </tr>
    <tr>
+      <td>24</td>
+      <td>计嵌172</td>
+      <td>葛威</td>
+      <td>WG.K</td>
+      <td>1200</td>
+      <td>1200</td>
+   </tr>
+   <tr>
+      <td>25</td>
+      <td>计嵌17</td>
+      <td>张霞</td>
+      <td>Shawe</td>
+      <td>1200</td>
+      <td>1200</td>
+   </tr>
+   <tr>
       <td></td>
    </tr>
 </table>
+
 <table>
    <tr>
       <td>班级</td>
       <td>姓名</td>
+      <td>CF ID</td>
+      <td>CF highest rating recently</td>
       <td>Uva</td>
       <td>HDU</td>
       <td>POJ</td>
@@ -209,6 +267,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>软工152</td>
       <td>沈宇翔*</td>
+      <td>Cookic</td>
+      <td>1573</td>
       <td>109</td>
       <td></td>
       <td>22</td>
@@ -217,6 +277,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计151</td>
       <td>马思赜*</td>
+      <td>Marszed</td>
+      <td>1518</td>
       <td></td>
       <td></td>
       <td>140</td>
@@ -225,6 +287,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>网工161</td>
       <td>李昊洋</td>
+      <td>thirtiseven</td>
+      <td>1549</td>
       <td>10</td>
       <td>42</td>
       <td>14</td>
@@ -233,6 +297,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计嵌162</td>
       <td>王淦</td>
+      <td>wanggann</td>
+      <td>1509</td>
       <td></td>
       <td>12</td>
       <td></td>
@@ -241,14 +307,28 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计152</td>
       <td>谢隽丰*</td>
+      <td>Xienaoban</td>
+      <td>1587</td>
       <td></td>
       <td>24</td>
       <td>3</td>
       <td>171</td>
    </tr>
    <tr>
+      <td>软工152</td>
+      <td>刘猛*</td>
+      <td>Lark00</td>
+      <td>1486</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>9</td>
+   </tr>
+   <tr>
       <td>物联网171</td>
       <td>赵静珂 </td>
+      <td>_Simon_</td>
+      <td>1332</td>
       <td>1</td>
       <td>33</td>
       <td>10</td>
@@ -257,14 +337,48 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计嵌172</td>
       <td>葛骅</td>
+      <td>K.GH</td>
+      <td>1403</td>
       <td></td>
       <td></td>
       <td></td>
       <td>1</td>
    </tr>
    <tr>
+      <td>网工171</td>
+      <td>王康</td>
+      <td>saaak</td>
+      <td>1398</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>3</td>
+   </tr>
+   <tr>
+      <td>软嵌162</td>
+      <td>王立凯</td>
+      <td>wlyan</td>
+      <td>1393</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>软嵌171</td>
+      <td>陈虎</td>
+      <td>xyfillusion</td>
+      <td>1392</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+   </tr>
+   <tr>
       <td>计科17</td>
       <td>丁雨聪</td>
+      <td>Chrisding</td>
+      <td>1387</td>
       <td></td>
       <td></td>
       <td></td>
@@ -273,6 +387,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>网工161</td>
       <td>侯承忻</td>
+      <td>sijidou</td>
+      <td>1359</td>
       <td></td>
       <td></td>
       <td></td>
@@ -281,30 +397,38 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>软工171</td>
       <td>陈赵</td>
+      <td>chenzhao</td>
+      <td>1387</td>
       <td></td>
       <td></td>
       <td></td>
       <td>2</td>
    </tr>
    <tr>
-      <td>软工152</td>
-      <td>刘猛*</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>9</td>
-   </tr>
-   <tr>
       <td>网工172</td>
       <td>陈迪荣</td>
+      <td>lttzz</td>
+      <td>1390</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+   </tr>
+   <tr>
+      <td>计嵌171</td>
+      <td>吴雪斐</td>
+      <td>Qsama</td>
+      <td>1375</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
    </tr>
    <tr>
       <td>计嵌172</td>
       <td>陈志伟</td>
+      <td>Catalyzer</td>
+      <td>1380</td>
       <td></td>
       <td></td>
       <td></td>
@@ -313,6 +437,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计嵌171</td>
       <td>李喜凯</td>
+      <td>perfectisshit</td>
+      <td>1375</td>
       <td></td>
       <td></td>
       <td></td>
@@ -321,6 +447,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计科172</td>
       <td>沈天任</td>
+      <td>STRworld </td>
+      <td>1371</td>
       <td></td>
       <td></td>
       <td></td>
@@ -329,6 +457,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>网工161</td>
       <td>邱晨阳</td>
+      <td>taitesi</td>
+      <td>1320</td>
       <td></td>
       <td></td>
       <td></td>
@@ -337,6 +467,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>软工171</td>
       <td>周朝晖</td>
+      <td>BuxiZhou</td>
+      <td>1200</td>
       <td></td>
       <td></td>
       <td></td>
@@ -345,6 +477,8 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>软工171</td>
       <td>杨任汀</td>
+      <td>zhufeifei</td>
+      <td>1200</td>
       <td></td>
       <td></td>
       <td></td>
@@ -353,6 +487,28 @@ New   ![](http://latex.codecogs.com/gif.latex?\\color{Red}\rightarrow)  朱恺
    <tr>
       <td>计嵌17</td>
       <td>张辰康</td>
+      <td>agedTime</td>
+      <td>1200</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>计嵌172</td>
+      <td>葛威</td>
+      <td>WG.K</td>
+      <td>1200</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>计嵌17</td>
+      <td>张霞</td>
+      <td>Shawe</td>
+      <td>1200</td>
       <td></td>
       <td></td>
       <td></td>
